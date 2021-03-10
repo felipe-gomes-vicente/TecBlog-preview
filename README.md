@@ -1,2 +1,2 @@
 # TecBlog Preview
-Aqui se localiza os Prints do Projeto TecBLog
+Video de apresentação do Projeto TecBlog
